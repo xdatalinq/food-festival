@@ -36,7 +36,7 @@ $(document).ready(function() {
         node = document.createTextNode(child);
       }
   
-      el.appendChild(node1);
+      el.appendChild(node);
     });
   
     return el;
